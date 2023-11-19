@@ -1,0 +1,32 @@
+body {
+    background-color: bisque;
+}
+
+.container-fluid {
+    background-color: grey;
+}
+
+.container-fluid a:hover {
+    color: greenyellow;
+}
+
+
+.navbar-brand {
+    background-color: red;
+}
+.form-control {
+    background-image: url(https://openclipart.org/image/800px/svg_to_png/213239/Search-icon.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center -200px;
+}
+
+.disabled {
+    background-size: auto;
+    background-image: url(http://www.clker.com/cliparts/5/j/r/G/y/p/shopping-cart-icon.svg);
+}
+
+footer a {
+    font-family: 'Roboto', sans-serif;;
+}
